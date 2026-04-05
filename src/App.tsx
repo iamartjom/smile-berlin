@@ -155,7 +155,7 @@ const Hero = () => {
         >
           <div className="relative z-10 rounded-[2.5rem] overflow-hidden shadow-2xl border-8 border-white/50">
             <img 
-              src="https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=800" 
+              src="/assets/dentist-male.jpg" 
               alt="Friendly Dentist" 
               className="w-full h-full object-cover aspect-[4/5]"
               referrerPolicy="no-referrer"
